@@ -11,4 +11,4 @@ n=input("You turn to your left and see an alarmingly large spider that looks rat
 if n==('run the other way'):
     print("As you flee from possible death down another corridor, you see a fork in the road. Will you go left or right?")
 if n=='shoot an electric blast':
-    print("
+    print("The spider dies")
